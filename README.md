@@ -1,6 +1,6 @@
 # Dynamic Dashboard Creator - Demo
 
-**Note:** This is a demo of the main application, which features a Flutter frontend. The demo is built using Streamlit to showcase the core functionality.
+**Note:** This is a demo of the main application, which features a Flutter frontend. The demo is built using Flask to showcase the core functionality.
 
 Welcome to the demo of the Dynamic Dashboard Creator application! This project showcases a tool that generates dynamic dashboards from any database in under 30 seconds, significantly reducing development time and costs while maintaining insightful data representation.
 
