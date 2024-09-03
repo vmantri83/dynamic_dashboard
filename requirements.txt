@@ -1,0 +1,7 @@
+openai==0.28.0
+mysql-connector-python
+snowflake-connector-python
+pandas
+streamlit
+streamlit-chat
+flask
